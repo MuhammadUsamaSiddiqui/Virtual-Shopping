@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476448673681",
+    "firebase_url": "https://virtualshopping-38cb2.firebaseio.com",
+    "project_id": "virtualshopping-38cb2",
+    "storage_bucket": "virtualshopping-38cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476448673681:android:9bd6a45a1e15a9ed",
+        "android_client_info": {
+          "package_name": "com.ubit.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476448673681-h1mhbfu8mpj45bnrneds9bg7r53iov9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sMh5fX4d6M1S7hYTMK6l46soHOWyXMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476448673681-h1mhbfu8mpj45bnrneds9bg7r53iov9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
